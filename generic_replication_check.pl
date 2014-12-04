@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # Generic replication check
-# Copyright (c) 2014 Alexey Baikov <sysboss@mail.ru>
+# Copyright (c) 2014 Alexey Baikov <sysboss[at]mail.ru>
 #
 # Compare master and slave position and examines MySQL replication gap.
 # Alert in case of IO/SQL error(s) and whether replication is delayed too much.
